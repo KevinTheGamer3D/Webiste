@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+	<html>
+	<body style="background-color:#B028D5">
+		<h1>This Website is about ME! Kevin Flores Janssen!</h1>
+		 <h2><p style="color:yellow"><u>This is Me Below:</u></h2>
+		  <img src="https://live.staticflickr.com/65535/50742035133_d81fdb4281_n.jpg" width="380" height="480" alt="Face for Web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+			<h2><p style="color:yellow"><u>About Me:</u></h2>
+			 <p style="color:#9DF34D">Age: 19</p>
+			 <p><p style="color:#9DF34D">Gender: Male</p>
+			 <p style="color:#9DF34D">Hobbies: Gaming, Writing Stories, Listening to Music, Doodle, Football, Streamer.</p>
+			 <p style="color:#9DF34D">Favorites: Burgers, Video Games, Music, Sleeping.</p>
+			 <p style="color:#9DF34D">Dislikes: Gacha Games, Anything with Olives, Doing Nothing.</p>
+			 <p style="color:#9DF34D">Fun Facts: I have a Twin Sister; her name is Jesenia and she goes to UMASS Boston too!</p>
+
+				<h2><p style="color:yellow"><u>My Acomplishments:</u></h2>
+				 <p style="color:#9DF34D">2006-2016 Chelsea Pride Football Participant</p>
+				 <p style="color:#9DF34D">Chelsea Pride Football 2014 Division II Champion</p>
+				 <p style="color:#9DF34D">2016-2020 Chelsea High Football Participant</p>
+				 <p style="color:#9DF34D">Got into UMASS Boston</p>
+				 <p style="color:#9DF34D">2019-2020 Chelsea High School Honor Role</p> 
+	</html>
